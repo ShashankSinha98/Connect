@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661712551891",
+    "project_id": "connect-f7e67",
+    "storage_bucket": "connect-f7e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661712551891:android:0643e413c546e073ecb926",
+        "android_client_info": {
+          "package_name": "com.lucifer.connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUc1nnUdVKr-ebbrLBWxUPZ7fKPNCYGI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
